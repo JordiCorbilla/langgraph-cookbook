@@ -1,4 +1,4 @@
-```
+```bash
 (react) C:\>python inference_example_large.py
 Loading gpt2...
 tokenizer_config.json: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 26.0/26.0 [00:00<00:00, 174kB/s]
@@ -20,3 +20,4 @@ Applying dynamic quantization...
 INT8 model size: 474.70 MB (≈1.0× smaller)
 INT8 total time for 4 prompts: 5.78 s (speedup: 1.14×)
 ```
+
