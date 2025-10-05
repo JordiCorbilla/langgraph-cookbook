@@ -522,3 +522,8 @@ In a world powered by interlinked AI technologies, compliance maintenance with t
 
 Don't shy away from this transformative opportunity. Discover the dynamic power of AI workflows and embrace these regulatory changes. It's time to amplify your business's competitive edge, enhance decision-making capabilities and futureproof your compliance frameworks with multi-agent AI.
 ```
+
+# CrewAI traces
+
+<img width="983" height="1532" alt="image" src="https://github.com/user-attachments/assets/fe8d70af-eb4a-4122-ae79-19afb1bcf607" />
+
